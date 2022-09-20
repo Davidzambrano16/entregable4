@@ -85,6 +85,7 @@ input{
   padding-left: 0.5rem;
   width: 85%;
   background-color: white;
+  color: black;
   border-radius: 10px;
   text-align: start;
 }
@@ -115,6 +116,7 @@ input{
 
 .buttonEdit{
   padding: 0;
+  color: black;
   background-color: white;
 }
 
